@@ -17,7 +17,7 @@ public class Teclado extends JPanel implements ActionListener{
     private final Color CINZA_ESCURO = new Color(68, 68, 68);
     public Teclado(){
         GridBagLayout layout = new GridBagLayout();
-        GridBagConstraints c = new GridBagConstraints();
+        GridBagConstraints c = new GridBagConstraints();a
 
         setLayout(layout);
 
